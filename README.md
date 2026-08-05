@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan272005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
