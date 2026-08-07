@@ -28,6 +28,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetan272005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
