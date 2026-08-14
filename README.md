@@ -32,6 +32,7 @@
 | [0029-divide-two-integers](https://github.com/Chetan272005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
