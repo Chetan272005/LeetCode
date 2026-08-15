@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Chetan272005/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
+| [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
