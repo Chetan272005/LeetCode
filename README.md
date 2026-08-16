@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Chetan272005/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0029-divide-two-integers](https://github.com/Chetan272005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
+| [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
 | ------- |
