@@ -42,6 +42,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Chetan272005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
@@ -81,6 +82,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Chetan272005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
