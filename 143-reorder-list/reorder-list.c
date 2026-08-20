@@ -45,7 +45,7 @@ void reorderList(struct ListNode* head) {
             k=k+2;
             j++;
         }
-        b[n-1] = a[j];
+        b[k] = a[j];
     }
 
     struct ListNode* temp2 = head;
