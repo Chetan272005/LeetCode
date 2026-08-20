@@ -50,6 +50,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Chetan272005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Chetan272005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
