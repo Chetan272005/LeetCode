@@ -13,6 +13,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Chetan272005/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Chetan272005/LeetCode/tree/master/0189-rotate-array) |
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetan272005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Chetan272005/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Chetan272005/LeetCode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
