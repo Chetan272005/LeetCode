@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Chetan272005/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
