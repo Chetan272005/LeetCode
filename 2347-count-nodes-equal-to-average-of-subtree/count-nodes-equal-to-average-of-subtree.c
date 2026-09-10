@@ -1,39 +1,52 @@
-int ans = 0;
+int count(struct TreeNode* root)
+{
+    if(root == NULL)
+        return 0;
 
-int* dfs(struct TreeNode* root) {
-    int* result = malloc(2 * sizeof(int));
-
-    if(root == NULL) {
-        result[0] = 0;
-        result[1] = 0;
-        return result;
-    }
-
-    int* left = dfs(root->left);
-    int* right = dfs(root->right);
-
-    int sum = left[0] + right[0] + root->val;
-    int count = left[1] + right[1] + 1;
-
-    if(sum / count == root->val) {
-        ans++;
-    }
-
-    result[0] = sum;
-    result[1] = count;
-
-    free(left);
-    free(right);
-
-    return result;
+    return 1 + count(root->left) + count(root->right);
 }
 
-int averageOfSubtree(struct TreeNode* root) {
-    ans = 0;
+int sum(struct TreeNode* root)
+{
+    if(root == NULL)
+        return 0;
 
-    int* result = dfs(root);
+    return root->val + sum(root->left) + sum(root->right);
+}
 
-    free(result);
+int avg(struct TreeNode* root)
+{
+    int c = count(root);
+    int s = sum(root);
+
+    return s / c;
+}
+
+int check(struct TreeNode* root)
+{
+    if(root->val == avg(root))
+        return 1;
+
+    return 0;
+}
+
+int solve(struct TreeNode* root)
+{
+    if(root == NULL)
+        return 0;
+
+    int ans = 0;
+
+    if(check(root))
+        ans++;
+
+    ans = ans + solve(root->left);
+    ans = ans + solve(root->right);
 
     return ans;
+}
+
+int averageOfSubtree(struct TreeNode* root)
+{
+    return solve(root);
 }
