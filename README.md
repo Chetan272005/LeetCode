@@ -112,12 +112,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Two Pointers
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chetan272005/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
