@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Chetan272005/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Chetan272005/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chetan272005/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Chetan272005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Chetan272005/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Chetan272005/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chetan272005/LeetCode/tree/master/0206-reverse-linked-list) |
