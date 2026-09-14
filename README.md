@@ -35,6 +35,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -145,6 +147,7 @@
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetan272005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chetan272005/LeetCode/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
