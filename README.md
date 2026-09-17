@@ -122,6 +122,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chetan272005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -129,6 +130,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chetan272005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -141,6 +143,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetan272005/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chetan272005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetan272005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetan272005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Two Pointers
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Chetan272005/LeetCode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chetan272005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
