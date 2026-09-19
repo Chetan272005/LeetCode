@@ -57,6 +57,7 @@
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Chetan272005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Chetan272005/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/Chetan272005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
