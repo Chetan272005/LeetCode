@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan272005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Chetan272005/LeetCode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chetan272005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Chetan272005/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chetan272005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetan272005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Chetan272005/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chetan272005/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Chetan272005/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chetan272005/LeetCode/tree/master/0231-power-of-two) |
@@ -194,6 +196,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chetan272005/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chetan272005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Indexed Tree
 |  |
