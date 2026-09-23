@@ -21,6 +21,7 @@
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Chetan272005/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chetan272005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Chetan272005/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Chetan272005/LeetCode/tree/master/0169-majority-element) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Chetan272005/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
