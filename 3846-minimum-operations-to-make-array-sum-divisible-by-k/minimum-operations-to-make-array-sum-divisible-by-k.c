@@ -1,9 +1,7 @@
 int minOperations(int* nums, int numsSize, int k) {
     int sum = 0;
-    int i = 0;
-    while(i < numsSize){
-        sum = sum + nums[i];
-        i++;
+    for(int i = 0; i < numsSize; i++){
+        sum += nums[i];
     }
     return sum % k;
 }
