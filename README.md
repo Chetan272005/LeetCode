@@ -22,6 +22,7 @@
 | [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Chetan272005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chetan272005/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chetan272005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Chetan272005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
