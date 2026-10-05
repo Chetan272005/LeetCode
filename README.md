@@ -19,6 +19,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Chetan272005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Chetan272005/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0605-can-place-flowers](https://github.com/Chetan272005/LeetCode/tree/master/0605-can-place-flowers) |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chetan272005/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -62,6 +63,7 @@
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Chetan272005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -216,4 +219,16 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Chetan272005/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
