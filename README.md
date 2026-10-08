@@ -67,6 +67,7 @@
 | [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Chetan272005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2469-convert-the-temperature](https://github.com/Chetan272005/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
