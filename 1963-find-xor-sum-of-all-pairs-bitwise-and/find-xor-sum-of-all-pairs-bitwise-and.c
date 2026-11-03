@@ -12,7 +12,5 @@ int getXORSum(int* arr1, int arr1Size, int* arr2, int arr2Size) {
         j++;
     }
 
-    int sum = sum1 & sum2;
-
-    return sum;
+    return sum1 & sum2;
 }
