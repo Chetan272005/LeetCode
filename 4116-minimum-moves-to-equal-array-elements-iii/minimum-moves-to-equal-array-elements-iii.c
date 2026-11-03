@@ -7,13 +7,9 @@ int minMoves(int* nums, int numsSize) {
         if(nums[i] >= max){
             max = nums[i];
         }
+        sum = sum + nums[i];
         i++;
     }
 
-    i = 0;
-    while(i < numsSize){
-        sum = sum + (max - nums[i]);
-        i++;
-    }
-    return sum;
+    return max*numsSize - sum;
 }
