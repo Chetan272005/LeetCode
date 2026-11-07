@@ -1,13 +1,23 @@
 int mySqrt(int x) {
+    int high = x;
+    int low = 0;
+    int mid,result;
 
-    if(x == 0){
-        return 0;
-    }
-    int num = 0;
-
-    for(int i = 1; i <= x / i; i++) {
-        num = i;
+    if(x == 0 || x == 1){
+        return x;
     }
 
-    return num;
+    while(low <= high){
+        mid = low + (high - low)/2;
+
+        if(mid != 0 && mid <= x / mid){
+            low = mid + 1;
+            result = mid;
+        }
+
+        else{
+            high = mid - 1;
+        }
+    }
+    return result;
 }
