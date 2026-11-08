@@ -1,3 +1,3 @@
 int gcdOfOddEvenSums(int n) {
-    return n;
+return n;
 }
