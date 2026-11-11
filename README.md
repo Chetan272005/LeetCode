@@ -69,6 +69,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Chetan272005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/Chetan272005/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chetan272005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Chetan272005/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
