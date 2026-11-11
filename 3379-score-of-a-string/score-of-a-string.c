@@ -1,14 +1,11 @@
 int scoreOfString(char* s) {
-    int sum = 0;
-    int i = 0;
-    while(i < strlen(s) && (i+1) < strlen(s)){
-        if((s[i] - s[i+1]) < 0){
-            sum = sum - (s[i] - s[i+1]);
+    int score=0;
+    for(int i=0;s[i+1]!=0;i++){
+        int diff=s[i]-s[i+1];
+        if(diff<0){
+            diff=-diff;
         }
-        else{
-            sum = sum + (s[i] - s[i+1]);
-        }
-        i++;
+        score=score+diff;
     }
-    return sum;
+    return score;
 }
