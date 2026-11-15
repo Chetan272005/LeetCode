@@ -65,6 +65,7 @@
 | [0233-number-of-digit-one](https://github.com/Chetan272005/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Chetan272005/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Chetan272005/LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Chetan272005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Chetan272005/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chetan272005/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chetan272005/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Chetan272005/LeetCode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Chetan272005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Chetan272005/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
