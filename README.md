@@ -23,6 +23,7 @@
 | [1470-shuffle-the-array](https://github.com/Chetan272005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/Chetan272005/LeetCode/tree/master/1720-decode-xored-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Chetan272005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Chetan272005/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chetan272005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chetan272005/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chetan272005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Chetan272005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Chetan272005/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## String
 |  |
 | ------- |
